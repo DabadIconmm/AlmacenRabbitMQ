@@ -1,0 +1,17 @@
+C:\Users\dabad\Documents\Work\IconWork\Formación\C#\Ejercicios\Sesion6_RabbitMQ\Mod\RabbitMQ\AlmacenRabbitMQ\bin\Debug\net6.0\AlmacenRabbitMQ.exe
+C:\Users\dabad\Documents\Work\IconWork\Formación\C#\Ejercicios\Sesion6_RabbitMQ\Mod\RabbitMQ\AlmacenRabbitMQ\bin\Debug\net6.0\AlmacenRabbitMQ.deps.json
+C:\Users\dabad\Documents\Work\IconWork\Formación\C#\Ejercicios\Sesion6_RabbitMQ\Mod\RabbitMQ\AlmacenRabbitMQ\bin\Debug\net6.0\AlmacenRabbitMQ.runtimeconfig.json
+C:\Users\dabad\Documents\Work\IconWork\Formación\C#\Ejercicios\Sesion6_RabbitMQ\Mod\RabbitMQ\AlmacenRabbitMQ\bin\Debug\net6.0\AlmacenRabbitMQ.dll
+C:\Users\dabad\Documents\Work\IconWork\Formación\C#\Ejercicios\Sesion6_RabbitMQ\Mod\RabbitMQ\AlmacenRabbitMQ\bin\Debug\net6.0\AlmacenRabbitMQ.pdb
+C:\Users\dabad\Documents\Work\IconWork\Formación\C#\Ejercicios\Sesion6_RabbitMQ\Mod\RabbitMQ\AlmacenRabbitMQ\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\dabad\Documents\Work\IconWork\Formación\C#\Ejercicios\Sesion6_RabbitMQ\Mod\RabbitMQ\AlmacenRabbitMQ\obj\Debug\net6.0\AlmacenRabbitMQ.csproj.AssemblyReference.cache
+C:\Users\dabad\Documents\Work\IconWork\Formación\C#\Ejercicios\Sesion6_RabbitMQ\Mod\RabbitMQ\AlmacenRabbitMQ\obj\Debug\net6.0\AlmacenRabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dabad\Documents\Work\IconWork\Formación\C#\Ejercicios\Sesion6_RabbitMQ\Mod\RabbitMQ\AlmacenRabbitMQ\obj\Debug\net6.0\AlmacenRabbitMQ.AssemblyInfoInputs.cache
+C:\Users\dabad\Documents\Work\IconWork\Formación\C#\Ejercicios\Sesion6_RabbitMQ\Mod\RabbitMQ\AlmacenRabbitMQ\obj\Debug\net6.0\AlmacenRabbitMQ.AssemblyInfo.cs
+C:\Users\dabad\Documents\Work\IconWork\Formación\C#\Ejercicios\Sesion6_RabbitMQ\Mod\RabbitMQ\AlmacenRabbitMQ\obj\Debug\net6.0\AlmacenRabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\dabad\Documents\Work\IconWork\Formación\C#\Ejercicios\Sesion6_RabbitMQ\Mod\RabbitMQ\AlmacenRabbitMQ\obj\Debug\net6.0\AlmacenRabbitMQ.csproj.CopyComplete
+C:\Users\dabad\Documents\Work\IconWork\Formación\C#\Ejercicios\Sesion6_RabbitMQ\Mod\RabbitMQ\AlmacenRabbitMQ\obj\Debug\net6.0\AlmacenRabbitMQ.dll
+C:\Users\dabad\Documents\Work\IconWork\Formación\C#\Ejercicios\Sesion6_RabbitMQ\Mod\RabbitMQ\AlmacenRabbitMQ\obj\Debug\net6.0\refint\AlmacenRabbitMQ.dll
+C:\Users\dabad\Documents\Work\IconWork\Formación\C#\Ejercicios\Sesion6_RabbitMQ\Mod\RabbitMQ\AlmacenRabbitMQ\obj\Debug\net6.0\AlmacenRabbitMQ.pdb
+C:\Users\dabad\Documents\Work\IconWork\Formación\C#\Ejercicios\Sesion6_RabbitMQ\Mod\RabbitMQ\AlmacenRabbitMQ\obj\Debug\net6.0\AlmacenRabbitMQ.genruntimeconfig.cache
+C:\Users\dabad\Documents\Work\IconWork\Formación\C#\Ejercicios\Sesion6_RabbitMQ\Mod\RabbitMQ\AlmacenRabbitMQ\obj\Debug\net6.0\ref\AlmacenRabbitMQ.dll
